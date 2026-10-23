@@ -1,0 +1,6 @@
+PWD c:\Users\TerenceHuyDo\OneDrive\Desktop\TLU_Template_latex_v1
+INPUT C:\Users\TerenceHuyDo\AppData\Local\MiKTeX\miktex\data\le\pdftex\pdflatex.fmt
+INPUT c:\Users\TerenceHuyDo\OneDrive\Desktop\TLU_Template_latex_v1\Cover page.tex
+OUTPUT Cover page.log
+INPUT C:\Users\TerenceHuyDo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx10.tfm
+INPUT C:\Users\TerenceHuyDo\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbxti10.tfm

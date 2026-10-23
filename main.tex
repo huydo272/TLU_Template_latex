@@ -1,15 +1,23 @@
-% This template is translated by Trang Nguyen Minh and Hanh Nguyen Hong, from BKIC 611 lab with love <3
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-\documentclass{article} % 
-\usepackage[utf8]{inputenc}
-\usepackage[T5]{fontenc} % Vietnamese
+\documentclass{article}
+\usepackage[utf8]{vietnam}
+\usepackage[T5]{fontenc}
 \usepackage[fontsize=13pt]{scrextend} % Set fontsize=13pt
-%\usepackage[paperheight=29.7cm,paperwidth=21cm,right=2cm,left=3cm,top=2cm,bottom=2.5cm]{geometry}% Chuẩn A4, căn lề phải, trái, trên, dưới.
-\usepackage[paperheight=29.7cm,paperwidth=21cm,right=2cm,left=3cm,top=2cm,bottom=2.5cm,twoside]{geometry}% Chuẩn A4, căn lề phải, trái, trên, dưới.
+\usepackage[paperheight=29.7cm,paperwidth=21cm,right=2cm,left=3cm,top=2cm,bottom=2.5cm]{geometry}% Chuẩn A4, căn lề phải, trái, trên, dưới.
 \usepackage{mathptmx} % Time New Roman
 \usepackage{graphicx} 
 \usepackage{float} 
 \usepackage{tikz}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{enumitem}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{tcolorbox}
+\usepackage{listings}
+\usepackage{courier}
+
+\setlength{\emergencystretch}{3em}
 \usetikzlibrary{calc} 
 \usepackage{indentfirst} 
 \renewcommand{\baselinestretch}{1.2} % Line space 1.2
@@ -56,10 +64,10 @@
 \newtheorem{lemma}[theorem]{Lemma}
 
 \usepackage{lipsum} % Thư viện tạo chữ linh tinh.
-\renewcommand{\contentsname}{TABLE OF CONTENTS}
-\renewcommand{\listfigurename}{LIST OF FIGURES}
-\renewcommand{\listtablename}{LIST OF TABLES}
-\renewcommand{\refname}{REFERENCES}
+\renewcommand{\contentsname}{MỤC LỤC}
+\renewcommand{\listfigurename}{DANH MỤC HÌNH VẼ}
+\renewcommand{\listtablename}{DANH MỤC BẢNG BIỂU}
+\renewcommand{\refname}{TÀI LIỆU THAM KHẢO}
 
 \usepackage[unicode]{hyperref}
 \usepackage{colortbl}
@@ -81,12 +89,14 @@
 \begin{document}
 
 \input{Cover page} 
+\input{Preface} 
 
-%\input{G-T topic} 
+\renewcommand{\contentsname}{MỤC LỤC}
+\renewcommand{\listfigurename}{DANH MỤC HÌNH VẼ}
+\renewcommand{\listtablename}{DANH MỤC BẢNG BIỂU}
+\renewcommand{\refname}{TÀI LIỆU THAM KHẢO}
+\renewcommand{\lstlistingname}{Phụ lục} % Thêm dòng này để đổi tên Listing -- Phụ lục
 
-%\input{Preface} 
-
-%\input{Pledge} 
 
 \addtocontents{toc}{\protect\thispagestyle{empty}}
 \tableofcontents 
@@ -98,14 +108,14 @@
 {\let\oldnumberline\numberline
 \renewcommand{\numberline}{Figure~\oldnumberline}
 \listoffigures} 
-\phantomsection\addcontentsline{toc}{section}{\numberline {} LIST OF FIGURES}
+\phantomsection\addcontentsline{toc}{section}{\numberline {} DANH MỤC HÌNH VẼ}
 \newpage
 
  %Tạo danh mục bảng biểu.
 {\let\oldnumberline\numberline
 \renewcommand{\numberline}{Table~\oldnumberline}
 \listoftables}
-\phantomsection\addcontentsline{toc}{section}{\numberline {} LIST OF TABLES}
+\phantomsection\addcontentsline{toc}{section}{\numberline {} DANH MỤC BẢNG BIỂU}
 \newpage
 
 \input{Abstract} 
@@ -122,16 +132,26 @@
 \newpage
 
 
+\phantomsection
+\addcontentsline{toc}{section}{DANH MỤC THAM KHẢO}
 
-\phantomsection\addcontentsline{toc}{section}{\numberline {}REFERENCES}
-% \bibliographystyle{IEEEtran}
-% \bibliography{References}
-\begin{thebibliography}{00}
-\bibitem{b1} abc
-\bibitem{b2} xyz
-\end{thebibliography}
+\bibliographystyle{unsrt}
+\bibliography{References}
 
 \newpage
-\input{Appendix}
-\end{document}
 
+\lstset{
+    basicstyle=\ttfamily\footnotesize, % Font chữ Courier, cỡ chữ nhỏ
+    frame=single,               % Tạo khung viền đơn xung quanh code
+    breaklines=true,            % Tự động xuống dòng nếu code quá dài
+    showstringspaces=false,     % Không hiện dấu cách trong chuỗi
+    tabsize=2,
+    captionpos=b,               % Vị trí caption ở dưới cùng
+    numbers=left,               % Hiển thị số dòng ở bên trái
+    numberstyle=\tiny,          % Cỡ chữ số dòng nhỏ
+    extendedchars=false         % Fix lỗi font tiếng Việt
+}
+
+\input{Appendix}
+
+\end{document}

@@ -1,0 +1,1049 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (MiKTeX 26.5) (preloaded format=pdflatex 2026.10.15)  23 OCT 2026 16:00
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex"
+(c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-09-09>
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:1: LaTeX Error: Environment tcolorbox undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{tcolorbox}
+                     [
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:1: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{tcolorbox}[
+                      
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no , in font nullfont!
+Missing character: There is no w in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no = in font nullfont!
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:6: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   h
+l.6     h
+         eight=0.9\textheight,
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 9 in font nullfont!
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:7: Illegal unit of measure (pt inserted).
+<to be read again> 
+                   b
+l.7     bo
+          xrule=1.5pt
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no b in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no x in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 1 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 5 in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no ] in font nullfont!
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 1--9
+[]
+ []
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:10: LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.10 \begin{center}
+                   
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 10--10
+[] 
+ []
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:12: Undefined control sequence.
+l.12     \Large
+                \textbf{TRƯỜNG ĐẠI HỌC THỦY LỢI} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:12: LaTeX Error: Unicode character Ư (U+01AF)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...extbf{TRƯỜNG ĐẠI HỌC THỦY LỢI}
+                                                   \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:12: LaTeX Error: Unicode character Ờ (U+1EDC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...extbf{TRƯỜNG ĐẠI HỌC THỦY LỢI}
+                                                   \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:12: LaTeX Error: Command \DJ unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...extbf{TRƯỜNG ĐẠI HỌC THỦY LỢI}
+                                                   \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:12: LaTeX Error: Unicode character Ạ (U+1EA0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...extbf{TRƯỜNG ĐẠI HỌC THỦY LỢI}
+                                                   \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:12: LaTeX Error: Unicode character Ọ (U+1ECC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...extbf{TRƯỜNG ĐẠI HỌC THỦY LỢI}
+                                                   \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:12: LaTeX Error: Unicode character Ủ (U+1EE6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...extbf{TRƯỜNG ĐẠI HỌC THỦY LỢI}
+                                                   \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:12: LaTeX Error: Unicode character Ợ (U+1EE2)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.12 ...extbf{TRƯỜNG ĐẠI HỌC THỦY LỢI}
+                                                   \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (34.66647pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 TRNG 
+ []
+
+
+Overfull \hbox (4.36108pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 I 
+ []
+
+
+Overfull \hbox (17.30547pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 HC 
+ []
+
+
+Overfull \hbox (25.6943pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 THY 
+ []
+
+
+Overfull \hbox (11.27771pt too wide) in paragraph at lines 12--12
+ \OT1/cmr/bx/n/10 LI 
+ []
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:13: Undefined control sequence.
+<recently read> \Large 
+                       
+l.13     \Large
+                \textbf{KHOA ĐIỆN - ĐIỆN TỬ} \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:13: LaTeX Error: Command \DJ unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...Large \textbf{KHOA ĐIỆN - ĐIỆN TỬ}
+                                                   \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:13: LaTeX Error: Unicode character Ệ (U+1EC6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...Large \textbf{KHOA ĐIỆN - ĐIỆN TỬ}
+                                                   \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:13: LaTeX Error: Command \DJ unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...Large \textbf{KHOA ĐIỆN - ĐIỆN TỬ}
+                                                   \\
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:13: LaTeX Error: Unicode character Ệ (U+1EC6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...Large \textbf{KHOA ĐIỆN - ĐIỆN TỬ}
+                                                   \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:13: LaTeX Error: Unicode character Ử (U+1EEC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.13 ...Large \textbf{KHOA ĐIỆN - ĐIỆN TỬ}
+                                                   \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (35.02759pt too wide) in paragraph at lines 13--13
+ []\OT1/cmr/bx/n/10 KHOA 
+ []
+
+
+Overfull \hbox (13.36104pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 IN 
+ []
+
+
+Overfull \hbox (3.83331pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 - 
+ []
+
+
+Overfull \hbox (13.36104pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 IN 
+ []
+
+
+Overfull \hbox (7.99995pt too wide) in paragraph at lines 13--13
+ \OT1/cmr/bx/n/10 T 
+ []
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:14: Undefined control sequence.
+<recently read> \Large 
+                       
+l.14     \Large
+                \textbf{BỘ MÔN ĐIỆN TỬ VIỄN THÔNG}\\[1.5cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:14: LaTeX Error: Unicode character Ộ (U+1ED8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...xtbf{BỘ MÔN ĐIỆN TỬ VIỄN THÔNG}
+                                                  \\[1.5cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:14: LaTeX Error: Command \DJ unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...xtbf{BỘ MÔN ĐIỆN TỬ VIỄN THÔNG}
+                                                  \\[1.5cm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:14: LaTeX Error: Unicode character Ệ (U+1EC6)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...xtbf{BỘ MÔN ĐIỆN TỬ VIỄN THÔNG}
+                                                  \\[1.5cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:14: LaTeX Error: Unicode character Ử (U+1EEC)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...xtbf{BỘ MÔN ĐIỆN TỬ VIỄN THÔNG}
+                                                  \\[1.5cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:14: LaTeX Error: Unicode character Ễ (U+1EC4)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.14 ...xtbf{BỘ MÔN ĐIỆN TỬ VIỄN THÔNG}
+                                                  \\[1.5cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (8.18051pt too wide) in paragraph at lines 14--14
+ []\OT1/cmr/bx/n/10 B 
+ []
+
+
+Overfull \hbox (28.5554pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/bx/n/10 M[]ON 
+ []
+
+
+Overfull \hbox (13.36104pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/bx/n/10 IN 
+ []
+
+
+Overfull \hbox (7.99995pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/bx/n/10 T 
+ []
+
+
+Overfull \hbox (22.05544pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/bx/n/10 VIN 
+ []
+
+
+Overfull \hbox (43.68031pt too wide) in paragraph at lines 14--14
+ \OT1/cmr/bx/n/10 TH[]ONG 
+ []
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:16: Undefined control sequence.
+l.16     \includegraphics
+                         [height=3cm]{figures/logo.jpg} \\[1.5cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 3 in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no ] in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no j in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no g in font nullfont!
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:17: Undefined control sequence.
+l.17     {\Huge
+                \bfseries BÁO CÁO NGHIÊN CỨU }\\[1cm]
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:17: LaTeX Error: Unicode character Ứ (U+1EE8)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.17     {\Huge \bfseries BÁO CÁO NGHIÊN CỨ
+                                                U }\\[1cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (25.51375pt too wide) in paragraph at lines 17--17
+ []\OT1/cmr/bx/n/10 B[]AO 
+ []
+
+
+Overfull \hbox (25.63875pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 C[]AO 
+ []
+
+
+Overfull \hbox (47.95807pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 NGHI[]EN 
+ []
+
+
+Overfull \hbox (17.15268pt too wide) in paragraph at lines 17--17
+ \OT1/cmr/bx/n/10 CU 
+ []
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:18: Undefined control sequence.
+l.18     \LARGE
+               \textbf{Chủ đề :Tìm hiểu tổng quan về Arduino}\\[...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:18: LaTeX Error: Unicode character ủ (U+1EE7)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ề :Tìm hiểu tổng quan về Arduino}
+                                                  \\[2cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:18: LaTeX Error: Command \dj unavailable in encoding OT1.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ề :Tìm hiểu tổng quan về Arduino}
+                                                  \\[2cm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:18: LaTeX Error: Unicode character ề (U+1EC1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ề :Tìm hiểu tổng quan về Arduino}
+                                                  \\[2cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:18: LaTeX Error: Unicode character ể (U+1EC3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ề :Tìm hiểu tổng quan về Arduino}
+                                                  \\[2cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:18: LaTeX Error: Unicode character ổ (U+1ED5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ề :Tìm hiểu tổng quan về Arduino}
+                                                  \\[2cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:18: LaTeX Error: Unicode character ề (U+1EC1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...ề :Tìm hiểu tổng quan về Arduino}
+                                                  \\[2cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (14.69437pt too wide) in paragraph at lines 18--18
+ []\OT1/cmr/bx/n/10 Ch 
+ []
+
+
+Overfull \hbox (23.97209pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 :T^^R^^Pm 
+ []
+
+
+Overfull \hbox (15.97214pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 hiu 
+ []
+
+
+Overfull \hbox (16.61102pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 tng 
+ []
+
+
+Overfull \hbox (24.43735pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 quan 
+ []
+
+
+Overfull \hbox (6.06941pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 v 
+ []
+
+
+Overfull \hbox (17.26381pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 Ar- 
+ []
+
+
+Overfull \hbox (28.11096pt too wide) in paragraph at lines 18--18
+ \OT1/cmr/bx/n/10 duino 
+ []
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 21--21
+[] 
+ []
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:22: Undefined control sequence.
+l.22 \Large
+           
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:23: LaTeX Error: Unicode character ự (U+1EF1)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23     \textbf{Sinh viên thực hiện :}
+                                             Nguyễn Văn A \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:23: LaTeX Error: Unicode character ệ (U+1EC7)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23     \textbf{Sinh viên thực hiện :}
+                                             Nguyễn Văn A \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no N in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no y in font nullfont!
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:23: LaTeX Error: Unicode character ễ (U+1EC5)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.23 ...textbf{Sinh viên thực hiện :} Nguyễ
+                                                  n Văn A \\
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no V in font nullfont!
+LaTeX Font Info:    Trying to load font information for +cmr on input line 23.
+LaTeX Font Info:    No file cmr.fd. on input line 23.
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `/cmr/m/n' instead on input line 23.
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:23: Corrupted NFSS tables.
+wrong@fontshape ...message {Corrupted NFSS tables}
+                                                  error@fontshape else let f...
+l.23 ...f{Sinh viên thực hiện :} Nguyễn Vă
+                                                  n A \\
+This error message was generated by an \errmessage
+command, so I can't give any explicit help.
+Pretend that you're Hercule Poirot: Examine all clues,
+and deduce the truth by order and method.
+
+
+LaTeX Font Warning: Font shape `/cmr/m/n' undefined
+(Font)              using `OT1/cmr/m/n' instead on input line 23.
+
+Missing character: There is no n in font nullfont!
+Missing character: There is no A in font nullfont!
+
+Overfull \hbox (22.361pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 Sinh 
+ []
+
+
+Overfull \hbox (20.92351pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 vi^en 
+ []
+
+
+Overfull \hbox (15.97214pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 thc 
+ []
+
+
+Overfull \hbox (15.97214pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 hin 
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/bx/n/10 : 
+ []
+
+
+Overfull \hbox (10.00003pt too wide) in paragraph at lines 23--23
+ \/cmr/m/n/10 ^^Ua 
+ []
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no @ in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no v in font nullfont!
+Missing character: There is no n in font nullfont!
+
+Overfull \hbox (29.11787pt too wide) in paragraph at lines 24--24
+ []\OT1/cmr/bx/n/10 Email 
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 24--24
+ \OT1/cmr/bx/n/10 : 
+ []
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:25: LaTeX Error: Unicode character ớ (U+1EDB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.25     \textbf{Lớp :}
+                          68DTVT \\ [2.5cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no 6 in font nullfont!
+Missing character: There is no 8 in font nullfont!
+Missing character: There is no D in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no V in font nullfont!
+Missing character: There is no T in font nullfont!
+
+Overfull \hbox (13.30548pt too wide) in paragraph at lines 25--25
+ []\OT1/cmr/bx/n/10 Lp 
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 25--25
+ \OT1/cmr/bx/n/10 : 
+ []
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:26: LaTeX Error: Unicode character ả (U+1EA3)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26     \textbf{Giảng viên hướng dẫn :}
+                                                 ThS.Đỗ Quang Huy \\[2.7cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:26: LaTeX Error: Unicode character ư (U+01B0)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26     \textbf{Giảng viên hướng dẫn :}
+                                                 ThS.Đỗ Quang Huy \\[2.7cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:26: LaTeX Error: Unicode character ớ (U+1EDB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26     \textbf{Giảng viên hướng dẫn :}
+                                                 ThS.Đỗ Quang Huy \\[2.7cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:26: LaTeX Error: Unicode character ẫ (U+1EAB)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26     \textbf{Giảng viên hướng dẫn :}
+                                                 ThS.Đỗ Quang Huy \\[2.7cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no T in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no . in font nullfont!
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:26: LaTeX Error: Command \DJ unavailable in encoding .
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 ...tbf{Giảng viên hướng dẫn :} ThS.Đ
+                                                  ỗ Quang Huy \\[2.7cm]
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:26: LaTeX Error: Unicode character ỗ (U+1ED7)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.26 ...{Giảng viên hướng dẫn :} ThS.Đỗ
+                                                   Quang Huy \\[2.7cm]
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+Missing character: There is no Q in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no H in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no y in font nullfont!
+
+Overfull \hbox (24.37486pt too wide) in paragraph at lines 26--26
+ []\OT1/cmr/bx/n/10 Ging 
+ []
+
+
+Overfull \hbox (20.92351pt too wide) in paragraph at lines 26--26
+ \OT1/cmr/bx/n/10 vi^en 
+ []
+
+
+Overfull \hbox (18.52768pt too wide) in paragraph at lines 26--26
+ \OT1/cmr/bx/n/10 hng 
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 26--26
+ \OT1/cmr/bx/n/10 dn 
+ []
+
+
+Overfull \hbox (3.19443pt too wide) in paragraph at lines 26--26
+ \OT1/cmr/bx/n/10 : 
+ []
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:27: LaTeX Error: Unicode character ộ (U+1ED9)
+               not set up for use with LaTeX.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27 ...{Hà Nội, ngày 22 tháng 10 năm 2026}}
+                                                  
+You may provide a definition with
+\DeclareUnicodeCharacter 
+
+
+Overfull \hbox (14.87207pt too wide) in paragraph at lines 27--28
+ []\OT1/cmr/bx/it/10 H^^Ra 
+ []
+
+
+Overfull \hbox (16.07208pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/it/10 Ni, 
+ []
+
+
+Overfull \hbox (23.34976pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/it/10 ng^^Ray 
+ []
+
+
+Overfull \hbox (11.82208pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/it/10 22 
+ []
+
+
+Overfull \hbox (27.49414pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/it/10 th^^Sang 
+ []
+
+
+Overfull \hbox (11.82208pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/it/10 10 
+ []
+
+
+Overfull \hbox (21.85533pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/it/10 n^^Uam 
+ []
+
+
+Overfull \hbox (24.96082pt too wide) in paragraph at lines 27--28
+ \OT1/cmr/bx/it/10 2026 
+ []
+
+
+c:/Users/TerenceHuyDo/OneDrive/Desktop/TLU_Template_latex_v1/Cover page.tex:32: LaTeX Error: \begin{document} ended by \end{tcolorbox}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.32 \end{tcolorbox}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> ...sktop/TLU_Template_latex_v1/Cover page.tex"
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 72 strings out of 467391
+ 1023 string characters out of 5402215
+ 440370 words of memory out of 5000000
+ 29526 multiletter control sequences out of 15000+600000
+ 629156 words of font info for 42 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 23i,1n,32p,197b,181s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!
